@@ -6,10 +6,7 @@ Videos và phần Demo của project trong Project-Media.
 
 | Họ tên - Tài khoản Github | MSSV | Công việc thực hiện |
 | :---         |     :---:      |          ---: |
-| Phan Đức Quyền -  ducquyen12312ew | 20225916     | Thiết kế biểu đồ trình tự cho hệ thống.
-Thiết kế giao diện hệ thống.
-Thiết kế phần backend.
-Tham gia test hệ thống.|
+| Phan Đức Quyền -  ducquyen12312ew | 20225916     | Thiết kế biểu đồ trình tự cho hệ thống. Thiết kế giao diện hệ thống. Thiết kế phần backend. Tham gia test hệ thống.|
 | Nguyễn Văn Hoàn - HoanxHoan   | 20225718       | Phân tích yêu cầu, phân tích nghiệp vụ cho hệ thống.
 Thiết kế kiến trúc và Use Case.
 Thiết kế biểu đồ hoạt động cho hệ thống.
