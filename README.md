@@ -12,15 +12,16 @@ Videos và phần Demo của project trong Project-Media.
 | Phan Hoàng Long - anybody1234 | 20225738 | Làm các chức năng kiểm thử đơn vị.<br>Phân tích yêu cầu, phân tích nghiệp vụ cho hệ thống.<br>Tham gia test hệ thống. |
 
 
-## 1. Clone the repository
+## 2. Hướng dẫn sử dụng
+#2.1. 
 ```bash
-git clone git@github.com:ducquyen12312ew/PetService.git
+git clone git@github.com:ducquyen12312ew/GoPetBet_ITSS_nhom2.git
 ```
-Then, move to the directory:
+Sau đó chuyển đến folder của project:
 ```bash
 cd PetService-main
 ```
-## 2. Install requirements
+## 
 - Download and install `Node.js` from the official website: [Node.js](https://nodejs.org/)
 - Open terminal and run:
 ```bash
